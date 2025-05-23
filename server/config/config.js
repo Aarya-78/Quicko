@@ -8,3 +8,13 @@ module.exports = {
     }
   };
   
+
+// // config.js
+// const { Sequelize } = require('sequelize');
+
+// const sequelize = new Sequelize('helper_seeker', 'root', 'root', {
+//   host: 'localhost',
+//   dialect: 'mysql'
+// });
+
+// module.exports = { sequelize };
